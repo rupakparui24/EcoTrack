@@ -192,13 +192,13 @@ npm run dev
 Backend runs at:
 
 ```text
-http://localhost:5000
+http://localhost:8080
 ```
 
 Health check:
 
 ```text
-http://localhost:5000/api/health
+http://localhost:8080/api/health
 ```
 
 ### Frontend
@@ -223,7 +223,7 @@ Backend:
 ```env
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/ecotrack?schema=public"
 JWT_SECRET="replace-with-a-long-random-secret"
-PORT=5000
+PORT=8080
 FRONTEND_URL="http://localhost:3000"
 NODE_ENV="development"
 ```
@@ -231,7 +231,7 @@ NODE_ENV="development"
 Frontend:
 
 ```env
-NEXT_PUBLIC_API_URL="http://localhost:5000/api"
+NEXT_PUBLIC_API_URL="http://localhost:8080/api"
 ```
 
 ## Prisma Commands

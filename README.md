@@ -8,9 +8,9 @@ EcoTrack is a full-stack assignment project built around the original team task 
 
 | Item | Link |
 |---|---|
-| Live URL | Add Railway or Vercel URL here |
-| GitHub Repository | Add repository URL here |
-| Demo Video | Add recorded demo URL here |
+| Live URL | https://frontend-production-709e.up.railway.app/ |
+| GitHub Repository | https://github.com/rupakparui24/EcoTrack |
+| Demo Video | https://drive.google.com/file/d/1RUQclHjD8ReXSVWWa11Tst8fCvdeY00r/view?usp=drive_link |
 
 ## Problem Statement
 
